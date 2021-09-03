@@ -23,17 +23,24 @@ and each topic will be a cumulative quiz of all subtopics within.
 
 In this project, users will be able to:
 
-{ Access each topic (i.e Ruby, SQL, Rails, JavaScript) and subtopics within (Recursion, Active Record, User Auth, Dom Manipulation)}
-{ Be provided with questions that'll tackle core understandings of each topic }
-{ Will score the User on the completed quiz and provide descriptions on right and wrong answers }
-{ Will show User's progress on main page }
+Access each topic (i.e Ruby, SQL, Rails, JavaScript) and subtopics within (Recursion, Active Record, User Auth, Dom Manipulation)
+
+Be provided with questions that'll tackle core understandings of each topic
+
+Will score the User on the completed quiz and provide descriptions on right and wrong answers
+
+Will show User's progress on main page
 
 # Wireframes
+
+![Screen Shot 2021-09-03 at 5 35 49 AM](https://user-images.githubusercontent.com/86999349/131988190-b3ed4cbf-935f-4306-99e9-626c8016c018.png)
+
 
 
 # Technologies, Libraries, API's
 
 D3.js
+
     Progress Bar
     Timer API
     Transitions API
